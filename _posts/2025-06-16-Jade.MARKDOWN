@@ -9,14 +9,14 @@ ce site permet d'être à la pointe de la mode. Il y'aura des exemples de pleins
 Ce **vous même** en gras.
 
 #  Y2k fashion
-![image0.jpeg](/asset/image0.jpeg)
+![image0.jpeg]({{ site.baseurl }}/asset/image0.jpeg)
 ## Elegant fashion
-![image0 (2).jpeg](\asset\image0 (2).jpeg)
+![image0 (2).jpeg]({{ site.baseurl }}\asset\image0 (2).jpeg)
 ###  Clean gril fashion
-![image2.jpeg](\asset\image2.jpeg)
+![image2.jpeg]({{ site.baseurl }}\asset\image2.jpeg)
 #### Gyaru fashion
-![image1.jpeg](\asset\image1.jpeg)
+![image1.jpeg]({{ site.baseurl }}\asset\image1.jpeg)
 #####  Streetwear fashion
-![image0 (3).jpeg](\asset\image0 (3).jpeg)
+![image0 (3).jpeg]({{ site.baseurl }}\asset\image0 (3).jpeg)
 ###### Cutecore fashion
-![image0 (1).jpeg](\asset\image0 (1).jpeg)
+![image0 (1).jpeg]({{ site.baseurl }}\asset\image0 (1).jpeg)
